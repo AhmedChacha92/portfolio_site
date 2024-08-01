@@ -13,6 +13,7 @@ const jpgRecompress = require('imagemin-jpeg-recompress');
 const clean         = require('gulp-clean');
 
 
+
 // Paths
 var paths = {
     root: { 
